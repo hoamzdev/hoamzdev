@@ -37,6 +37,23 @@
   <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" />
 </p>
 
+<h3>DSA</h3>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td valign="top">
+        <a href="https://codeforces.com/profile/hoamzzzzz">
+          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=hoamzzzzz&theme=dark" width="400" alt="Codeforces Stats" />
+        </a>
+      </td>
+      <td valign="top">
+        <a href="https://leetcode.com/hoaminzibfgb">
+          <img src="https://leetcard.jacoblin.cool/hoaminzibfgb?theme=dark&font=Recursive&ext=contest" width="400" alt="LeetCode Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 <h2>📫 Contact</h2>
