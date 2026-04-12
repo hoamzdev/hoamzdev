@@ -34,8 +34,13 @@
   <img src="http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff" />
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img src="http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff" />
-  <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" />
 </p>
+
+<h3>🖥️ Operating Systems</h3>
+  <p>
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" /> 
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" />
+  </p>
 
 <h2>📫 Contact</h2>
 <ul>
