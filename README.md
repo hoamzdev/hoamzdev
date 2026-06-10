@@ -1,4 +1,4 @@
-<h1>Hi 👋 I'm a mobile developer</h1>
+<h1>🫶🫶🫶🫶🫶🫶🫶🫶🫶🫶</h1>
 
 <h2>🛠 My Tech Stack</h2>
 
@@ -13,18 +13,27 @@
   <img src="http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff" />
   <img src="http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff" />
   <img src="http://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=ffffff" />
+  <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff" />
+</p>
+
+<h3>🎨 Frontend Development</h3>
+<p>
+  <img src="http://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff" />
+  <img src="http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff" />
+</p>
+
+<h3>☁️ Backend Development</h3>
+<p>
+  <img src="http://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=ffffff" />
+  <img src="http://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000" />
 </p>
 
 <h3>🗄 Database</h3>
 <p>
   <img src="http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff" />
   <img src="http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff" />
-</p>
-
-<h3>☁️ Backend</h3>
-<p>
-  <img src="http://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000" />
 </p>
 
 <h3>🧰 Tools & IDE</h3>
@@ -37,10 +46,10 @@
 </p>
 
 <h3>🖥️ Operating Systems</h3>
-  <p>
+<p>
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" /> 
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000" />
-  </p>
+</p>
 
 <h2>📫 Contact</h2>
 <ul>
@@ -50,5 +59,5 @@
 </ul>
 
 <p>
-⭐️ From <a href="https://github.com/hoamzdev">hoamz
+⭐️ From <a href="https://github.com/hoamzdev">hoamz</a>
 </p>
